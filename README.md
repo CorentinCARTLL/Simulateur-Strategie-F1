@@ -52,3 +52,7 @@ Le programme détermine automatiquement la combinaison optimale pour obtenir le 
 === MEILLEURE STRATÉGIE ===
 Stints : [('hard', 35, 0), ('medium', 4, 0), ('intermediate', 20, 0), ('intermediate', 5, 0)]
 Temps total : 5806.21 s
+  
+## Remerciements  
+Un grand merci à Loris ALUNNO, dont les réflexions, la curiosité et les échanges techniques autour de la stratégie de course et de la simulation m’ont inspiré dans le développement de ce projet.  
+Son approche analytique et sa passion pour la précision des modèles ont largement contribué à faire évoluer cette version du simulateur.  
