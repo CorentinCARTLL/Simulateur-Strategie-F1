@@ -1,5 +1,5 @@
-# 🏎️ RaceStrategySimulator
-
+# 🏎️ Simulateur-Strategie-F1
+  
 **RaceStrategySimulator** est un projet Python de simulation et d’optimisation de stratégie de course inspiré de la Formule 1.  
 Il combine **modélisation physique** (pneus, météo, carburant, dégradation) et **logique algorithmique** pour trouver la stratégie la plus rapide sur une course complète.
 
