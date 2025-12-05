@@ -1,8 +1,3 @@
-### 🚀 La "Catchphrase" (Description courte)
-
-> 🏎️ **Devenez le prochain génie du muret des stands grâce à ce simulateur Python qui optimise vos stratégies de course en temps réel (Météo, Pneus, Fuel) \!**
-> 📊 **Une fusion parfaite entre Algorithmique et Data Viz pour prouver que la victoire se joue à la milliseconde près. 🏁**
-
 # 🏎️ F1 Strategy Simulator : Le Cerveau Virtuel de la Course
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
